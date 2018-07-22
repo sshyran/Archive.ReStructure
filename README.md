@@ -27,7 +27,8 @@
 Emm ...uh, Accounting under Linux ? Are you sure ?!...
 
 
-Openbravo...
+Openbravo... vs redmine
+
 Fork of OpenBravo POS v2.30.2 - https://github.com/sshyran/OpenBravoPOS_2.30.2
 
 1Cv77 on win + local net multilogin via...
