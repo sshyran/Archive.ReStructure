@@ -12,7 +12,7 @@
 ...forget Vagrant, hello LXC
 
 * LXC - Linux System/Almost-hardware Containers - https://github.com/sshyran/lxc + https://linuxcontainers.org/lxc
-* LXD - system container manager - https://github.com/sshyran/lxd
+* LXD - system container manager - https://github.com/sshyran/lxd + https://linuxcontainers.org/lxd
 * ...so look at 18.04 LTS minimal server edition for all these perks!
 *
 
