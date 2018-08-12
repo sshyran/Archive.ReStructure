@@ -3,6 +3,7 @@
 ### 1. Server-side web dev ? 
 
 * Apollo Server - https://github.com/sshyran/apollo-server (open-source GraphQL server) 
+* Everything GraphQL -  https://github.com/sshyran/awesome-graphql
 * OpenLiteSpeed Server - https://github.com/sshyran/openlitespeed   //open source HTTP server with WebSockets + IPv6
 * µWS v0.15 - https://github.com/sshyran/uWebSockets-v0.15  C++17 ver. of WebSockets & HTTP ( x10 Faster than Node.js)
 * Ubuntu 18.04 LTS mini - hoorray! - 
