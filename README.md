@@ -36,3 +36,18 @@ Fork of OpenBravo POS v2.30.2 - https://github.com/sshyran/OpenBravoPOS_2.30.2
 
 
 p.s. - look here, this man rocks https://github.com/chentsulin
+
+
+
+https://github.com/sshyran/storybook
+
+https://github.com/sshyran/parsedown-party
+
+https://wordpress.org/plugins/better-search-replace/
+
+https://wordpress.org/plugins/wp-migrate-db/
+
+https://wppusher.com/features
+
+
+
