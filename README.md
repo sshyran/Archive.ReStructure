@@ -21,9 +21,33 @@
 
 
 
+### 3. Other very helpful repos  
+
+* 3.1 Ghost. The most popular headless Node.js CMS for professional publishing
+
+https://github.com/sshyran/Ghost
+
+https://gscan.ghost.org
+
+https://docs.ghost.org/api/handlebars-themes/
+
+https://ghost.org/docs/
+
+* 3.2 CodeSandbox - Online IDE, Application & code editor, tailored for web application development 
+https://github.com/sshyran/codesandbox-client
+
+* 3.3 Lerna - managing JavaScript projects with multiple packages
+Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
+https://github.com/sshyran/lerna
+
+* 3.4 
+https://github.com/sshyran/gatsby
 
 
 
+
+
+=============================================================================
 
 Emm ...uh, Accounting under Linux ? Are you sure ?!...
 
