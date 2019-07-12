@@ -34,7 +34,7 @@ https://docs.ghost.org/api/handlebars-themes/
 
 https://ghost.org/docs/
 
-#### 3.2 CodeSandbox
+### 3.2 CodeSandbox
 Online IDE, Application & code editor, tailored for web application development 
 
 https://github.com/sshyran/codesandbox-client
