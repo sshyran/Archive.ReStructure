@@ -21,9 +21,9 @@
 
 
 
-### 3. Other helpful repos  
+## 3. Other helpful repos  
 
-### 3.1 Ghost. 
+## Ghost. 
 The most popular headless Node.js CMS for professional publishing
 
    https://github.com/sshyran/Ghost
@@ -35,29 +35,35 @@ The most popular headless Node.js CMS for professional publishing
    https://ghost.org/docs/
 
 
-### 3.1.1 Ghost theme generator
+### Ghost theme generator
 Generate Ghost blogs and themes using Yeoman.
 
    https://github.com/sshyran/generator-ghost
 
 
-### 3.2 CodeSandbox
-Online IDE, Application & code editor, tailored for web application development 
-
-   https://github.com/sshyran/codesandbox-client
-
-### 3.3 Lerna 
-Managing JavaScript projects with multiple packages. Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
-
-   https://github.com/sshyran/lerna
-
-### 3.4 Gatsby 
+### Gatsby 
 Free and open source framework based on React that helps developers build blazing fast websites and apps. Build blazing fast, modern apps and websites with React.
      
    https://github.com/sshyran/gatsby
 
+### Browserify - require('modules') in the browser
+Use a node-style require() to organize your browser code and load modules installed by npm.
 
-### 3.5 StackBlitz - Online IDE
+https://github.com/sshyran/browserify
+
+
+### Lerna 
+Managing JavaScript projects with multiple packages. Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
+
+   https://github.com/sshyran/lerna
+
+### CodeSandbox
+Online IDE, Application & code editor, tailored for web application development 
+
+   https://github.com/sshyran/codesandbox-client
+
+
+### StackBlitz - Online IDE
 Your local env, now in the browser
 
    https://github.com/sshyran/stackblitz-core
