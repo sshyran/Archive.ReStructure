@@ -25,14 +25,13 @@
 
 ## 3.1 Headless CMS
 
-### Ghost
-The most popular headless Node.js CMS for professional publishing. https://github.com/sshyran/Ghost, https://gscan.ghost.org, https://docs.ghost.org/api/handlebars-themes/, https://ghost.org/docs/ .
+### [Ghost](https://github.com/sshyran/Ghost)
+The most popular headless Node.js CMS for professional publishing https://gscan.ghost.org, https://docs.ghost.org/api/handlebars-themes/, https://ghost.org/docs/ .
 
-#### Ghost theme generator - using Yeoman. https://github.com/sshyran/generator-ghost
+**[Ghost theme generator](https://github.com/sshyran/generator-ghost)** - using Yeoman.
 
-### Netlify
+### [Netlify](https://github.com/netlify)
 Netlify builds, deploys and hosts your static front-end
-https://github.com/netlify
 
 .
 
@@ -63,12 +62,12 @@ Splitting up large codebases into separate independently versioned packages is e
 
 
 ## IDE
+]()
+### [CodeSandbox](https://github.com/sshyran/codesandbox-client)
+Online IDE, Application & code editor, tailored for web application development.
 
-### CodeSandbox
-Online IDE, Application & code editor, tailored for web application development https://github.com/sshyran/codesandbox-client .
-
-### StackBlitz - Online IDE
-Your local env, now in the browser https://github.com/sshyran/stackblitz-core .
+### [StackBlitz](https://github.com/sshyran/stackblitz-core) - Online IDE
+Your local env, now in the browser.
 
 
 
@@ -79,6 +78,8 @@ Your local env, now in the browser https://github.com/sshyran/stackblitz-core .
 
 
 =============================================================================
+
+]()
 
 Emm ...uh, Accounting under Linux ? Are you sure ?!...
 
