@@ -28,7 +28,7 @@
 ### Ghost. 
 The most popular headless Node.js CMS for professional publishing. https://github.com/sshyran/Ghost, https://gscan.ghost.org, https://docs.ghost.org/api/handlebars-themes/, https://ghost.org/docs/ .
 
-### Ghost theme generator
+#### Ghost theme generator
 Generate Ghost blogs and themes using Yeoman. https://github.com/sshyran/generator-ghost
 
 ### Netlify
@@ -38,7 +38,7 @@ https://github.com/netlify
 
 ## 3.2 Build websites and apps
 
-### Gatsby 
+#### Gatsby 
 Free and open source framework based on React that helps developers build blazing fast websites and apps. Build blazing fast, modern apps and websites with React https://github.com/sshyran/gatsby .
 
 ### Browserify - require('modules') in the browser, just like R.js, but better (maybe)
@@ -46,21 +46,18 @@ browserify will recursively analyze all the require() calls in your app in order
 
 
 ### Lerna - Managing JavaScript projects with multiple packages. 
-
 Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
 
 Splitting up large codebases into separate independently versioned packages is extremely useful for code sharing. However, making changes across many repositories is messy and difficult to track, and testing across repositories gets complicated really fast https://github.com/sshyran/lerna .
 
+
+## IDE
+
 ### CodeSandbox
-Online IDE, Application & code editor, tailored for web application development 
-
-   https://github.com/sshyran/codesandbox-client
-
+Online IDE, Application & code editor, tailored for web application development https://github.com/sshyran/codesandbox-client .
 
 ### StackBlitz - Online IDE
-Your local env, now in the browser
-
-   https://github.com/sshyran/stackblitz-core
+Your local env, now in the browser https://github.com/sshyran/stackblitz-core .
 
 
 
