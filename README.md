@@ -28,17 +28,20 @@
 ### Ghost. 
 The most popular headless Node.js CMS for professional publishing. https://github.com/sshyran/Ghost, https://gscan.ghost.org, https://docs.ghost.org/api/handlebars-themes/, https://ghost.org/docs/ .
 
-#### Ghost theme generator
-Generate Ghost blogs and themes using Yeoman. https://github.com/sshyran/generator-ghost
+#### Ghost theme generator - using Yeoman. https://github.com/sshyran/generator-ghost
 
 ### Netlify
 Netlify builds, deploys and hosts your static front-end
 https://github.com/netlify
 
+.
 
 ## 3.2 Build websites and apps
 
-#### Gatsby 
+### Electron !!!
+Build cross platform desktop apps with JavaScript, HTML, and CSS https://github.com/electron .
+
+### Gatsby 
 Free and open source framework based on React that helps developers build blazing fast websites and apps. Build blazing fast, modern apps and websites with React https://github.com/sshyran/gatsby .
 
 ### Browserify - require('modules') in the browser, just like R.js, but better (maybe)
