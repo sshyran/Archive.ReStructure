@@ -45,6 +45,8 @@ Build cross platform desktop apps with JavaScript, HTML, and CSS.
 ### [NW.js](https://github.com/sshyran/nw.js)
 **Call Node.js modules directly from the DOM and Web Workers**. It's also based on top of Chromium and Node.js (same as Electron), but with Chrome API and Chrome Extensions .crx Support. + PDF (and Flash) Plugins Out of the Box. + V8 bytecode. + [native addon build tool](https://github.com/sshyran/nw-gyp).
 
+
+
 ### [Parcel](https://github.com/sshyran/parcel)
 Blazing fast, zero configuration web application bundler
 
@@ -58,8 +60,7 @@ The Expo platform for making cross-platform mobile apps
 Essential cross-platform UI components for React Native
 
 
-
-
+Emm... https://github.com/sshyran/HBuilderX-quickapp, https://github.com/sshyran/uni-app, https://github.com/sshyran/wap2app ...what? Ok, maybe later...
 
 ### [Gatsby](https://github.com/sshyran/gatsby)
 Free and open source framework based on React that helps developers build blazing fast websites and apps. Build blazing fast, modern apps and websites with React.
