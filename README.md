@@ -47,27 +47,28 @@ It's also based on top of Chromium and Node.js (same as Electron), but with Chro
 ### Gatsby 
 Free and open source framework based on React that helps developers build blazing fast websites and apps. Build blazing fast, modern apps and websites with React https://github.com/sshyran/gatsby .
 
-### Browserify - require('modules') in the browser (post.prod), 
+### [Browserify](https://github.com/sshyran/browserify) - **require('modules') in the browser (post.prod)**
 + Bytenode github.com/sshyran/bytenode when dev.compiling Node side (pre.prod)... ???
 
-...so it's just like R.js, but better
+...so it's something like R.js, but with shrinkwrap magic
 
-Browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag. So you can use a node-style require() to organize/shrinkwrap your browser code, and even load modules installed by 'npm install' https://github.com/sshyran/browserify .
+Browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag. So you can use a node-style require() to organize/shrinkwrap your browser code, and even load modules installed by 'npm install'.
 
 
-### Lerna - Managing JavaScript projects with multiple packages. 
+### [Lerna](https://github.com/sshyran/lerna)
+**Managing JavaScript projects with multiple packages.** 
 Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
 
-Splitting up large codebases into separate independently versioned packages is extremely useful for code sharing. However, making changes across many repositories is messy and difficult to track, and testing across repositories gets complicated really fast https://github.com/sshyran/lerna .
+Splitting up large codebases into separate independently versioned packages is extremely useful for code sharing. However, making changes across many repositories is messy and difficult to track, and testing across repositories gets complicated really fast.
 
 
 ## IDE
-]()
+
 ### [CodeSandbox](https://github.com/sshyran/codesandbox-client)
 Online IDE, Application & code editor, tailored for web application development.
 
-### [StackBlitz](https://github.com/sshyran/stackblitz-core) - Online IDE
-Your local env, now in the browser.
+### [StackBlitz](https://github.com/sshyran/stackblitz-core)
+Online IDE. Your local env, now in the browser.
 
 
 
