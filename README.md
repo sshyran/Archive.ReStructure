@@ -23,42 +23,33 @@
 
 ## 3. Other helpful repos  
 
-## Ghost. 
-The most popular headless Node.js CMS for professional publishing
+## 3.1 Headless CMS
 
-   https://github.com/sshyran/Ghost
-
-   https://gscan.ghost.org
-
-   https://docs.ghost.org/api/handlebars-themes/
-
-   https://ghost.org/docs/
-
+### Ghost. 
+The most popular headless Node.js CMS for professional publishing. https://github.com/sshyran/Ghost, https://gscan.ghost.org, https://docs.ghost.org/api/handlebars-themes/, https://ghost.org/docs/ .
 
 ### Ghost theme generator
-Generate Ghost blogs and themes using Yeoman.
+Generate Ghost blogs and themes using Yeoman. https://github.com/sshyran/generator-ghost
 
-   https://github.com/sshyran/generator-ghost
+### Netlify
+Netlify builds, deploys and hosts your static front-end
+https://github.com/netlify
 
+
+## 3.2 Build websites and apps
 
 ### Gatsby 
-Free and open source framework based on React that helps developers build blazing fast websites and apps. Build blazing fast, modern apps and websites with React.
-     
-   https://github.com/sshyran/gatsby
+Free and open source framework based on React that helps developers build blazing fast websites and apps. Build blazing fast, modern apps and websites with React https://github.com/sshyran/gatsby .
 
 ### Browserify - require('modules') in the browser, just like R.js, but better (maybe)
-browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag. So you can use a node-style require() to organize/shrinkwrap your browser code, and even load modules installed by npm.
-
-https://github.com/sshyran/browserify
+browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag. So you can use a node-style require() to organize/shrinkwrap your browser code, and even load modules installed by 'npm install' https://github.com/sshyran/browserify .
 
 
 ### Lerna - Managing JavaScript projects with multiple packages. 
 
 Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
 
-Splitting up large codebases into separate independently versioned packages is extremely useful for code sharing. However, making changes across many repositories is messy and difficult to track, and testing across repositories gets complicated really fast.
-
-   https://github.com/sshyran/lerna
+Splitting up large codebases into separate independently versioned packages is extremely useful for code sharing. However, making changes across many repositories is messy and difficult to track, and testing across repositories gets complicated really fast https://github.com/sshyran/lerna .
 
 ### CodeSandbox
 Online IDE, Application & code editor, tailored for web application development 
