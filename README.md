@@ -1,4 +1,4 @@
-# LibRep-App-info
+# LibRepo.App.info
 
 ### 1. Server-side web dev ? 
 
@@ -26,9 +26,7 @@
 ## 3.1 Headless CMS
 
 ### [Ghost](https://github.com/sshyran/Ghost)
-The most popular headless Node.js CMS for professional publishing https://gscan.ghost.org, https://docs.ghost.org/api/handlebars-themes/, https://ghost.org/docs/ .
-
-**[Ghost theme generator](https://github.com/sshyran/generator-ghost)** - using Yeoman.
+The most popular headless Node.js CMS for professional publishing https://gscan.ghost.org, https://docs.ghost.org/api/handlebars-themes/, https://ghost.org/docs/ . [Ghost theme generator](https://github.com/sshyran/generator-ghost) - using Yeoman.
 
 ### [Netlify](https://github.com/netlify)
 Netlify builds, deploys and hosts your static front-end
@@ -37,18 +35,19 @@ Netlify builds, deploys and hosts your static front-end
 
 ## 3.2 Build websites and apps
 
-### Electron 
-Build cross platform desktop apps with JavaScript, HTML, and CSS https://github.com/electron .
+### [Electron](https://github.com/electron)
+Build cross platform desktop apps with JavaScript, HTML, and CSS.
 
-### NW.js
-**Call Node.js modules directly from the DOM and Web Workers** - https://github.com/sshyran/nw.js
+### [NW.js](https://github.com/sshyran/nw.js)
+**Call Node.js modules directly from the DOM and Web Workers**
 It's also based on top of Chromium and Node.js (same as Electron), but with Chrome API and Chrome Extensions .crx Support. + PDF (and Flash) Plugins Out of the Box. + V8 bytecode. + native addon build tool https://github.com/sshyran/nw-gyp .
 
-### Gatsby 
-Free and open source framework based on React that helps developers build blazing fast websites and apps. Build blazing fast, modern apps and websites with React https://github.com/sshyran/gatsby .
+### [Gatsby](https://github.com/sshyran/gatsby)
+Free and open source framework based on React that helps developers build blazing fast websites and apps. Build blazing fast, modern apps and websites with React.
 
-### [Browserify](https://github.com/sshyran/browserify) - **require('modules') in the browser (post.prod)**
-+ Bytenode github.com/sshyran/bytenode when dev.compiling Node side (pre.prod)... ???
+### [Browserify](https://github.com/sshyran/browserify) - 
+**require('modules') in the browser (post.prod)**
++ [Bytenode](github.com/sshyran/bytenode)  when dev.compiling Node side (pre.prod)... ???
 
 ...so it's something like R.js, but with shrinkwrap magic
 
