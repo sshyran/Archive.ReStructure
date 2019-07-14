@@ -18,7 +18,7 @@
 * Snap / Snappy is a package manager/creator (snapd from snapcraft.io) - https://github.com/sshyran/snapd
 * ...so look at 18.04 LTS minimal server edition for all these perks - http://cdimages.ubuntu.com/netboot/
 *
-
+]()
 
 
 ## 3. Other helpful repos  
@@ -26,7 +26,8 @@
 ## 3.1 Headless CMS
 
 ### [Ghost](https://github.com/sshyran/Ghost)
-The most popular headless Node.js CMS for professional publishing https://gscan.ghost.org, https://docs.ghost.org/api/handlebars-themes/, https://ghost.org/docs/ . [Ghost theme generator](https://github.com/sshyran/generator-ghost) - using Yeoman.
+**The most popular headless Node.js CMS for professional publishing.**
+See [Docs](https://ghost.org/docs/), [Themes]( https://docs.ghost.org/api/handlebars-themes/), [Ghost theme generator](https://github.com/sshyran/generator-ghost) (using Yeoman), and [Theme check dev.utilidy](https://gscan.ghost.org). 
 
 ### [Netlify](https://github.com/netlify)
 Netlify builds, deploys and hosts your static front-end
@@ -40,14 +41,15 @@ Build cross platform desktop apps with JavaScript, HTML, and CSS.
 
 ### [NW.js](https://github.com/sshyran/nw.js)
 **Call Node.js modules directly from the DOM and Web Workers**
-It's also based on top of Chromium and Node.js (same as Electron), but with Chrome API and Chrome Extensions .crx Support. + PDF (and Flash) Plugins Out of the Box. + V8 bytecode. + native addon build tool https://github.com/sshyran/nw-gyp .
+It's also based on top of Chromium and Node.js (same as Electron), but with Chrome API and Chrome Extensions .crx Support. + PDF (and Flash) Plugins Out of the Box. + V8 bytecode. + [native addon build tool](https://github.com/sshyran/nw-gyp).
 
 ### [Gatsby](https://github.com/sshyran/gatsby)
 Free and open source framework based on React that helps developers build blazing fast websites and apps. Build blazing fast, modern apps and websites with React.
 
-### [Browserify](https://github.com/sshyran/browserify) - 
+### [Browserify](https://github.com/sshyran/browserify)
 **require('modules') in the browser (post.prod)**
-+ [Bytenode](github.com/sshyran/bytenode)  when dev.compiling Node side (pre.prod)... ???
+
+   +/- [Bytenode](github.com/sshyran/bytenode)  when dev.compiling Node side (pre.prod)... yes/no ???
 
 ...so it's something like R.js, but with shrinkwrap magic
 
