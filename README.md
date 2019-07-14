@@ -25,7 +25,7 @@
 
 ## 3.1 Headless CMS
 
-### Ghost. 
+### Ghost
 The most popular headless Node.js CMS for professional publishing. https://github.com/sshyran/Ghost, https://gscan.ghost.org, https://docs.ghost.org/api/handlebars-themes/, https://ghost.org/docs/ .
 
 #### Ghost theme generator - using Yeoman. https://github.com/sshyran/generator-ghost
