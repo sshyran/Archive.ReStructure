@@ -46,14 +46,17 @@ Free and open source framework based on React that helps developers build blazin
      
    https://github.com/sshyran/gatsby
 
-### Browserify - require('modules') in the browser
-Use a node-style require() to organize your browser code and load modules installed by npm.
+### Browserify - require('modules') in the browser, just like R.js, but better (maybe)
+browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag. So you can use a node-style require() to organize/shrinkwrap your browser code, and even load modules installed by npm.
 
 https://github.com/sshyran/browserify
 
 
-### Lerna 
-Managing JavaScript projects with multiple packages. Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
+### Lerna - Managing JavaScript projects with multiple packages. 
+
+Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
+
+Splitting up large codebases into separate independently versioned packages is extremely useful for code sharing. However, making changes across many repositories is messy and difficult to track, and testing across repositories gets complicated really fast.
 
    https://github.com/sshyran/lerna
 
