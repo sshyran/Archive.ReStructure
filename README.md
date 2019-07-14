@@ -38,14 +38,22 @@ https://github.com/netlify
 
 ## 3.2 Build websites and apps
 
-### Electron !!!
+### Electron 
 Build cross platform desktop apps with JavaScript, HTML, and CSS https://github.com/electron .
+
+### NW.js
+**Call Node.js modules directly from the DOM and Web Workers** - https://github.com/sshyran/nw.js
+It's also based on top of Chromium and Node.js (same as Electron), but with Chrome API and Chrome Extensions .crx Support. + PDF (and Flash) Plugins Out of the Box. + V8 bytecode. + native addon build tool https://github.com/sshyran/nw-gyp .
 
 ### Gatsby 
 Free and open source framework based on React that helps developers build blazing fast websites and apps. Build blazing fast, modern apps and websites with React https://github.com/sshyran/gatsby .
 
-### Browserify - require('modules') in the browser, just like R.js, but better (maybe)
-browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag. So you can use a node-style require() to organize/shrinkwrap your browser code, and even load modules installed by 'npm install' https://github.com/sshyran/browserify .
+### Browserify - require('modules') in the browser (post.prod), 
++ Bytenode github.com/sshyran/bytenode when dev.compiling Node side (pre.prod)... ???
+
+...so it's just like R.js, but better
+
+Browserify will recursively analyze all the require() calls in your app in order to build a bundle you can serve up to the browser in a single <script> tag. So you can use a node-style require() to organize/shrinkwrap your browser code, and even load modules installed by 'npm install' https://github.com/sshyran/browserify .
 
 
 ### Lerna - Managing JavaScript projects with multiple packages. 
