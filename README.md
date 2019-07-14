@@ -48,6 +48,18 @@ Build cross platform desktop apps with JavaScript, HTML, and CSS.
 ### [Parcel](https://github.com/sshyran/parcel)
 Blazing fast, zero configuration web application bundler
 
+### [Turtle](https://github.com/sshyran/turtle)
+Standalone app builder service
+
+### [Expo](https://github.com/sshyran/expo)
+The Expo platform for making cross-platform mobile apps
+
+### [NativeBase](https://github.com/sshyran/NativeBase)
+Essential cross-platform UI components for React Native
+
+
+
+
 
 ### [Gatsby](https://github.com/sshyran/gatsby)
 Free and open source framework based on React that helps developers build blazing fast websites and apps. Build blazing fast, modern apps and websites with React.
