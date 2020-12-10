@@ -1,1 +1,7 @@
 Setup.of.the.week.archive
+
+...
+
+Dec 2020
+Setup of the week: 
+Actix.Yew.Wasm.Juniper:Dart.Web:Graphene.Agens.WP_Gatsby:RealWorld
